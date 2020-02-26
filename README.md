@@ -40,3 +40,7 @@ Navigate to the repository. In the command line, start the application by typing
 The "do-what-it-says" function does not need an additional argument, because it reads commands from the random.txt file.  The text file contains a "spotify-this-song" command, but you can add any of the commands above to the text file and LIRI will do what it says.
 
 
+![Getting Started](./assets/images/image_1.png)
+![Getting Started](./assets/images/image_2.png)
+![Getting Started](./assets/images/image_3.png)
+![Getting Started](./assets/images/image_4.png)
